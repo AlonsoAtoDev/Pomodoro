@@ -10,7 +10,10 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.alonsoato.pomodoro.strategies.ThemeResolver
 import com.alonsoato.pomodoro.ui.theme.PomodoroTheme
+import com.alonsoato.pomodoro.utils.ThemeColors
+import com.alonsoato.pomodoro.utils.ThemeColors.BLUE
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
