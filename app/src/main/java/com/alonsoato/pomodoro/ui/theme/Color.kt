@@ -2,10 +2,17 @@ package com.alonsoato.pomodoro.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val Red50 = Color(0xFFFFF2F2)
+val Red200 = Color(0xFFFFB0B0)
+val Red400 = Color(0xFFFF6E6E)
+val Red900 = Color(0xFF471515)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Green50 = Color(0xFFF2FFF5)
+val Green200 = Color(0xFFAAF0B9)
+val Green400 = Color(0xFF69E084)
+val Green900 = Color(0xFF14401D)
+
+val Blue50 = Color(0xFFF2F9FF)
+val Blue200 = Color(0xFFB0DAFF)
+val Blue400 = Color(0xFF6EBBFF)
+val Blue900 = Color(0xff153047)
