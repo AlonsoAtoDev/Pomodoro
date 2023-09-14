@@ -7,7 +7,7 @@ import com.alonsoato.pomodoro.ui.theme.Blue900
 
 class BlueThemeStrategy : ThemeStrategy {
 
-    override val mainColor = Blue900
+    override val primaryColor = Blue900
 
     override val backgroundColor = Blue100
 
