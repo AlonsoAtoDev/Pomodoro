@@ -61,7 +61,9 @@ dependencies {
     implementation(libs.compose.ui.graphics)
     implementation(libs.compose.ui.tooling)
     implementation(libs.compose.ui.tooling.preview)
+    implementation(libs.compose.material)
     implementation(libs.compose.material3)
+    implementation(libs.compose.foundation)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
